@@ -38,7 +38,7 @@ _Available now_
 - Upload/Download files
 
 _Coming next_
-- Edit/delete files
+- [**Edit/delete files**](https://github.com/nhsengland/futurenhs-roadmap/issues/47)
 - [**View files through browser**](https://github.com/nhsengland/futurenhs-roadmap/issues/32)
 - Permissions (tbd)
 - Versions (tbc)
