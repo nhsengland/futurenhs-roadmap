@@ -1,5 +1,5 @@
 # FutureNHS Roadmap
-In this repository sits the [official FutureNHS public product roadmap](https://github.com/nhsengland/futurenhs-roadmap/projects/1).
+In this repository sits the [official FutureNHS public product roadmap](https://github.com/nhsengland/futurenhs-roadmap/projects/1). We have also created a [Coming Next](/functions.md) page to give you a view function by function about what we have released and what is coming next
 
 Our product roadmap is one of the ways in which we want to show you what we're up to. You can view it to get an idea of the things currently in progress, things about to be released and ideas we have planned for the future.
 
@@ -12,12 +12,9 @@ Our roadmap will be constantly evolving to meet the ever changing priorities of 
 ### Items
 We are using Github issues to record items on the roadmap that we are working on. Each item includes a **summary**, an **intended outcome** and a description of **how it work**. As the items move through the roadmap these will evolve over times.
 
-**Milestones** are used to indicate a release in which it is intended the item will be available to use to all platform members although we will be testing these in advance with users. 
+**Milestones** are used to indicate a release in which it is intended the item will be available to use to all platform members although we will be testing these in advance with users. We will focus on an agile delivery, with the intention of releasing new functionality every sprint. We will however have some major milestones to aim for and will label these accordingingly.
 
-We use labels to indicate as to which of the following phases of development an item is:
-- **Discovery**: To gain a full understanding of the problem users are experiencing that has led to the item being created
-- **Alpha**: To test prototypes and ideas as to how we may solve ideas on the platform
-- **Beta**: Item is mostly complete and documented. Timeline and requirements for Live usually understood. No SLAs or support provided.
+We use **labels** to indicate to which function the feature we are developing belongs. This lets users drill down into specific functions to understand how they will be developed over the coming months.
 
 ### Timescales
 
@@ -26,7 +23,7 @@ The roadmap is split into three timescale blocks:
 - Medium term (3-9 months)
 - Long term (9-12 months)
 
-The timescale in which an item sits indicates when we plan to have a item ready for Beta or Live.
+The timescale in which an item sits indicates when we plan to have a item ready for users.
 
 Another **Ideas** column is used to display ideas we have thought about but not yet fully started exploring.
 
