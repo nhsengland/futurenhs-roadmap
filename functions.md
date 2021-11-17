@@ -58,8 +58,10 @@ _Coming next_
 
 ### [Search & Navigation](https://github.com/nhsengland/futurenhs-roadmap/projects/1?card_filter_query=label%3A%22search+%26+navigation%22)
 _Available now_
+- Search forum posts
 
 _Coming next_
+- [**Full site search**](https://github.com/nhsengland/futurenhs-roadmap/issues/14)
 
 ## Functions coming soon
 
