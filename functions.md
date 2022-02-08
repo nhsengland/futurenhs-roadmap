@@ -25,9 +25,9 @@ _Available now_
 - Invite users to my group (Group Admin)
 - Leave groups
 - Members page
+- [Restricted groups](https://github.com/nhsengland/futurenhs-roadmap/issues/41)
 
 _Coming next_
-- [Restricted groups](https://github.com/nhsengland/futurenhs-roadmap/issues/41)
 - Group themes/brands (tbd)
 - Group custom nav (tbc)
 
@@ -36,6 +36,7 @@ _Coming next_
 _Available now_
 - Create/edit/delete folders
 - Upload/Download files
+- [**View files through browser**](https://github.com/nhsengland/futurenhs-roadmap/issues/32)
 
 _Coming next_
 - [**Edit/delete files**](https://github.com/nhsengland/futurenhs-roadmap/issues/47)
