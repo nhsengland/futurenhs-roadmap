@@ -12,20 +12,27 @@ Our roadmap will be constantly evolving to meet the ever changing priorities of 
 ### Items
 We are using Github issues to record items on the roadmap that we are working on. Each item includes a **summary**, an **intended outcome** and a description of **how it work**. As the items move through the roadmap these will evolve over times.
 
-**Milestones** are used to indicate a release in which it is intended the item will be available to use to all platform members although we will be testing these in advance with users. We will focus on an agile delivery, with the intention of releasing new functionality every sprint. We will however have some major milestones to aim for and will label these accordingingly.
-
 We use **labels** to indicate to which function the feature we are developing belongs. This lets users drill down into specific functions to understand how they will be developed over the coming months.
 
 ### Timescales
 
 The roadmap is split into three timescale blocks:
-- Short term (0-3 months)
-- Medium term (3-9 months)
-- Long term (9-12 months)
+#### Building now 
+- Expected release within the next 3 to 6 weeks
+- We're actively buidling these in the current sprint so release is imminent
 
-The timescale in which an item sits indicates when we plan to have a item ready for users.
+#### Buiding next - Solution identified
+- Expected release from 6 weeks to 3 months
+- These are ready to be allocated to a sprint for building as soon as they reach the top of the priority list
 
-Another **Ideas** column is used to display ideas we have thought about but not yet fully started exploring.
+#### Identifying solution
+- Expected release from 3 months to 9 months
+- We've identified the problem and are working on a solution to fix it. Release will depend on complexity of problem and priority.
+
+#### Thinking about
+- No expected release date
+- These are things that have been raised but we still need to full understand the problem before we start working on them
+
 
 ## Disclaimer
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to FutureNHS as of the date they are made, and FutureNHS assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Customers should not rely on this roadmap to make any purchasing decision.
