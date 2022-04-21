@@ -3,7 +3,7 @@ In this repository sits the [official FutureNHS public product roadmap](https://
 
 Our product roadmap is one of the ways in which we want to show you what we're up to. You can view it to get an idea of the things currently in progress, things about to be released and ideas we have planned for the future.
 
-Your feedback is crucial in helping us prioritise product development so don't be afraid to leave a comment or ask a question on anything you may be interested in.
+Your feedback is crucial in helping us prioritise product development so don't be afraid to leave a comment or ask a question on anything you may be interested in. You can do this easily by creating a [GitHub account](https://github.com/join)
 
 Our roadmap will be constantly evolving to meet the ever changing priorities of our platform users so make sure you come back to see what's changed.
 
@@ -19,7 +19,7 @@ We use **labels** to indicate to which function the feature we are developing be
 The roadmap is split into three timescale blocks:
 #### Building now 
 - Expected release within the next 3 to 6 weeks
-- We're actively buidling these in the current sprint so release is imminent
+- We're actively buidling these in the current sprint so release is imminent. We'll update this column every three weeks after each Sprint.
 
 #### Buiding next - Solution identified
 - Expected release from 6 weeks to 3 months
