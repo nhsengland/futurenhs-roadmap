@@ -1,5 +1,5 @@
 # FutureNHS Roadmap
-In this repository sits the [official FutureNHS public product roadmap](https://github.com/nhsengland/futurenhs-roadmap/projects/1). We have also created a [Coming Next](/functions.md) page to give you a view function by function about what we have released and what is coming next
+In this repository sits the [official FutureNHS public product roadmap](https://github.com/nhsengland/futurenhs-roadmap/projects/1).
 
 Our product roadmap is one of the ways in which we want to show you what we're up to. You can view it to get an idea of the things currently in progress, things about to be released and ideas we have planned for the future.
 
